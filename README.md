@@ -1,2 +1,2 @@
 # ETL-Traffic_Counts
-This repository walks thorough a few different ways to organize and visualize raw traffic count data
+This repository walks thorough how to use python to clean and transform raw traffic count data
